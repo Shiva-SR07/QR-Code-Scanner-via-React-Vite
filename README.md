@@ -1,0 +1,1 @@
+# QR-Code-Scanner-via-React-Vite
